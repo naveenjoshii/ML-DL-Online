@@ -8,4 +8,6 @@
 
 Git Commands
 Essential git commands every developer should know - DEV Community 👩‍💻👨‍💻
+https://dev.to/dhruv/essential-git-commands-every-developer-should-know-2fl
+
 https://github.com/joshnh/Git-Commands
